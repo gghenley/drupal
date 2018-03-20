@@ -1,0 +1,10 @@
+html, body, textarea, p { font-family: 'Open Sans', sans-serif; font-size: 100%; line-height: 1.5em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.site-branding__name-link { font-family: "Lato", sans-serif; font-size: 2.875rem; line-height: 1.5; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.site-branding__slogan { font-family: 'Open Sans', sans-serif; font-size: 1.875rem; line-height: 1.5; }
+.node__title, .page__title, .user__title { font-family: "Lato", sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.menu a { font-family: 'Open Sans', sans-serif; font-size: 1.25rem; line-height: 1.5; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+h1, h2, h3, h4, .h1, .h2, .h3, .h4 { font-family: "OpenSans", sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+h5, h6, .h5, .h6 { font-family: 'Open Sans', sans-serif; }
+form, input, select, textarea { font-family: "MuktaMahee", sans-serif; }
+
+

@@ -1,0 +1,12 @@
+/* Custom CSS */
+
+.field__label {
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 1rem;
+    margin: 0 0 0.5em;
+}
+
+.node p:last-child {
+    margin: 0 0 1.5em;
+}
